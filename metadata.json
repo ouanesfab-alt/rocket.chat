@@ -1,0 +1,6 @@
+{
+  "name": "RocketChat",
+  "description": "A WhatsApp-inspired real-time chat client built on Rocket.Chat architecture featuring rich messaging, status, and local Room cache.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
